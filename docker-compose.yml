@@ -1,0 +1,8 @@
+﻿version: '3'
+services:
+  vulnerable-service:
+    image: vulnerable/bash:latest
+    ports:
+      - "8080:80"
+    environment:
+      - DEBUG=true
