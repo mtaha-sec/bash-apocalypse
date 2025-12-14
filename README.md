@@ -218,9 +218,6 @@ Security researcher focused on offensive security and vulnerability research.
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - Email: your.email@example.com
 
----
-
-## License
 
 MIT License - see [LICENSE](LICENSE) for details.
 
