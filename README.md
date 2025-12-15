@@ -4,7 +4,7 @@
 
 [![Severity](https://img.shields.io/badge/Severity-CRITICAL-red)](https://nvd.nist.gov/vuln/detail/CVE-2014-6271)
 [![CVSS Score](https://img.shields.io/badge/CVSS-10.0-critical)](https://nvd.nist.gov/vuln/detail/CVE-2014-6271)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
 A complete security research project demonstrating the Shellshock vulnerability that affected millions of servers in 2014. Includes automated scanning, exploitation capabilities, and defensive recommendations.
 
