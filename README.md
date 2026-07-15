@@ -185,11 +185,10 @@ bash-apocalypse/
 ├── exploit.sh              # Main tool
 ├── payloads.txt            # Test payloads
 ├── docker-compose.yml      # Lab setup
-├── demo.gif
 └── screenshots/
-    ├── burp-intercept.png
-    ├── exploitation.png
-    └── reverse-shell.png
+    ├── intercept.png
+    ├── Payload.png
+    └── result.png
 ```
 
 ---
@@ -208,7 +207,4 @@ bash-apocalypse/
 
 ---
 
-
----
-
-*Built to understand how vulnerabilities work and how to defend against them.* hjnhjfj
+*Built to understand how vulnerabilities work and how to defend against them.* ;)
