@@ -94,10 +94,10 @@ nc -lvnp 4444
 ## Manual Exploitation (Burp Suite)
 
 ### Step 1: Intercept Request
-![Burp Intercept](screenshots/burp-intercept.webp)
+![Burp Intercept](screenshots/intercept.webp)
 
 ### Step 2: Inject Payload
-![Exploitation](screenshots/payload.webp)
+![Exploitation](screenshots/Payload.webp)
 
 Modify the User-Agent header:
 ```http
