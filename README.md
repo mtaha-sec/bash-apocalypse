@@ -208,18 +208,6 @@ bash-apocalypse/
 
 ---
 
-## Author
-
-**[Your Name]**
-
-Security researcher focused on offensive security and vulnerability research.
-
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-
-MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
